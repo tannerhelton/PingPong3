@@ -13,3 +13,4 @@ Aidan: Joe is a lumberjack
 Joe: JW with normal hair
 Tanner: Ping 6
 Watson: Pong 6
+Aidan: Ping7
