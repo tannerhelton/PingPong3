@@ -45,3 +45,10 @@ r : Pint 30
 Watson: Pong 4093
 Aidan: Ping 305u
 Joe: ghi
+T
+a
+n
+n
+e
+r
+: Ping 3
